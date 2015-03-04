@@ -25,7 +25,7 @@ radioButtons.setItemStyleName("blue", "blue");
 		}
 	}
 }
-``
+```
 
 ![Screenshot](https://raw.githubusercontent.com/tehapo/StyleableOptionGroup/master/screenshot.png)
 
