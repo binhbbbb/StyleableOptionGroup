@@ -11,6 +11,22 @@ radioButtons.setItemStyleName("green", "green");
 radioButtons.setItemStyleName("blue", "blue");
 ```
 
+```scss
+.v-select-optiongroup {
+	.v-select-option {
+		&.red {
+			color: desaturate(red, 25%);
+		}
+		&.green {
+			color: desaturate(green, 25%);
+		}
+		&.blue {
+			color: desaturate(blue, 25%);
+		}
+	}
+}
+``
+
 ![Screenshot](https://raw.githubusercontent.com/tehapo/StyleableOptionGroup/master/screenshot.png)
 
 ## Online demo
