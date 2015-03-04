@@ -11,6 +11,7 @@ radioButtons.setItemStyleName("green", "green");
 radioButtons.setItemStyleName("blue", "blue");
 ```
 
+![Screenshot](https://raw.githubusercontent.com/tehapo/StyleableOptionGroup/master/screenshot.png)
 
 ## Online demo
 
