@@ -6,7 +6,7 @@
 	<artifactId>styleable-optiongroup</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>StyleableOptionGroup Add-on</name>
+	<name>StyleableOptionGroup</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

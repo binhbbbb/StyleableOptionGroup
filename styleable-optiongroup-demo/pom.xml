@@ -6,7 +6,7 @@
 	<artifactId>styleable-optiongroup-demo</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0</version>
-	<name>StyleableOptionGroup Add-on Demo</name>
+	<name>StyleableOptionGroup Demo</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
