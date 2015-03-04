@@ -1,6 +1,16 @@
 # StyleableOptionGroup for Vaadin 7
 
 StyleableOptionGroup extends the OptionGroup of the core framework by allowing style names for each item.
+```java
+StyleableOptionGroup radioButtons = new StyleableOptionGroup();
+radioButtons.addItem("red");
+radioButtons.addItem("green");
+radioButtons.addItem("blue");
+radioButtons.setItemStyleName("red", "red");
+radioButtons.setItemStyleName("green", "green");
+radioButtons.setItemStyleName("blue", "blue");
+```
+
 
 ## Online demo
 
@@ -13,9 +23,11 @@ For Maven instructions, download and reviews, go to https://vaadin.com/addon/sty
 
 ## Building and running demo
 
+```bash
 mvn clean install
 cd demo
 mvn jetty:run
+```
 
 To see the demo, navigate to http://localhost:8080/
 
