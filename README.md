@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/styleableoptiongroup)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/styleableoptiongroup.svg)](https://vaadin.com/directory/component/styleableoptiongroup)
+
 # StyleableOptionGroup for Vaadin 7
 
 StyleableOptionGroup extends the OptionGroup of the core framework by allowing style names for each item.
